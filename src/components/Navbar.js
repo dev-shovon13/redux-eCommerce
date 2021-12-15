@@ -38,7 +38,7 @@ const Navbar = () => {
                     borderBottom: "3px solid #CE8339",
                     paddingBottom: "11px",
                   }}
-                  to="/about"
+                  to="/"
                 >
                   About
                 </NavLink>
