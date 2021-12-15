@@ -1,0 +1,15 @@
+.nav-bg {
+  background-color: rgb(197, 214, 214);
+}
+
+.active {
+  color: rgb(98, 165, 98) !important;
+  font-weight: 500 !important;
+}
+.text-decoration-none {
+  text-decoration: none;
+  color: rgb(48, 48, 48);
+}
+.text-decoration-none:hover {
+  color: gray;
+}

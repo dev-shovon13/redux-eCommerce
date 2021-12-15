@@ -1,0 +1,38 @@
+.product {
+  transition: all 0.5s;
+}
+.product:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+.no-link {
+  text-decoration: none;
+}
+.single-p-width {
+  width: 50%;
+  margin: auto;
+}
+.single-product-img {
+  height: 650px;
+  width: 100%;
+  padding: 30px;
+}
+.tag {
+  background: url("../images/tag.png");
+  height: 50px;
+}
+.color {
+  color: brown;
+}
+.add-btn {
+  background: #c5d6d6;
+  color: rgb(65, 65, 65);
+  transition: all 0.4s;
+}
+.add-btn:hover {
+  background: #669494;
+  color: white;
+}
+.is-active {
+  color: red;
+}
