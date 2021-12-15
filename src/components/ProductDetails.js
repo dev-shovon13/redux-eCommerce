@@ -31,6 +31,8 @@ const ProductDetails = () => {
         <div className="col p-5">
           <h4>{title}</h4>
           {/* <div className="tag"></div> */}
+          {/* <div className="tag"></div> */}
+
           <h6 className="bg-light rounded py-2 px-3 bold color border my-3">
             {category}
           </h6>
